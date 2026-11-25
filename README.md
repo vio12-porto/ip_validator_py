@@ -1,4 +1,4 @@
-# 🕵️ IP Validator: Satpam Alamat IPv4
+# 🕵️ IP Validator: Cek Alamat IPv4
 
 > "Maaf, IP kamu tidak terdaftar di daftar tamu. Silakan putar balik." 🚫
 
