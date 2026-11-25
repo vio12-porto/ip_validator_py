@@ -1,7 +1,5 @@
 # 🕵️ IP Validator: Cek Alamat IPv4
 
-> "Maaf, IP kamu tidak terdaftar di daftar tamu. Silakan putar balik." 🚫
-
 Project kecil ini adalah **satpam digital** yang tugasnya cuma satu: ngecek apakah sebuah alamat IPv4 itu **asli** atau **abal-abal**. Dibuat pakai Python, dikawal pakai **TDD** (Test-Driven Development), dan ditulis sambil ngeluh karena `true` ternyata harus `True`. 😭
 
 ---
@@ -63,8 +61,8 @@ Exiting the validator. Goodbye!
 
 ```
 ip_validator_py/
-├── ip_validator.py              # Otak si satpam 🧠
-├── main.py                      # Program interaktifnya 💬
-├── test_ip_validator_class.py   # Tukang tes, galak tapi adil 🔍
-└── README.md                    # Kamu lagi baca ini 👋
+├── ip_validator.py 
+├── main.py   
+├── test_ip_validator_class.py
+└── README.md
 ```
